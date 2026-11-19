@@ -1,0 +1,12 @@
+{
+  "name": "hermes-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hermes + Claude Code + Codex 파이프라인 검증용 저장소",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test",
+    "lint": "node scripts/lint.mjs"
+  }
+}
